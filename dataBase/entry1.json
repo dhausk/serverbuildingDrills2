@@ -2,79 +2,79 @@
   {
     "id": 1,
     "fullName": "Kyle Coberly",
-    "Title": "Faculty Director",
+    "title": "Faculty Director",
     "numberOfDogs": 0
   },
   {
     "id": 2,
     "fullName": "Danny Fritz",
-    "Title": "Lead Instructor",
+    "title": "Lead Instructor",
     "numberOfDogs": 0
   },
   {
     "id": 3,
     "fullName": "CJ Reynolds",
-    "Title": "Lead Instructor",
+    "title": "Lead Instructor",
     "numberOfDogs": 0
   },
   {
     "id": 4,
     "fullName": "Brooks Patton",
-    "Title": "Lead Instructor",
+    "title": "Lead Instructor",
     "numberOfDogs": 0
   },
   {
     "id": 5,
     "fullName": "Roberto Ortega",
-    "Title": "Lead Instructor",
+    "title": "Lead Instructor",
     "numberOfDogs": 1
   },
   {
     "id": 6,
     "fullName": "Chad Drummond",
-    "Title": "Instructor",
+    "title": "Instructor",
     "numberOfDogs": 0
   },
   {
     "id": 7,
     "fullName": "Kim Schlesinger",
-    "Title": "Instructor",
+    "title": "Instructor",
     "numberOfDogs": 0
   },
   {
     "id": 8,
     "fullName": "Peter Ostiguy",
-    "Title": "Associate Instructor",
+    "title": "Associate Instructor",
     "numberOfDogs": 1
   },
   {
     "id": 8,
     "fullName": "Peter Ostiguy",
-    "Title": "Associate Instructor",
+    "title": "Associate Instructor",
     "numberOfDogs": 1
   },
   {
     "id": 9,
     "fullName": "Cass Torske",
-    "Title": "Resident",
+    "title": "Resident",
     "numberOfDogs": 1
   },
   {
     "id": 10,
     "fullName": "Matt Winzer",
-    "Title": "Resident",
+    "title": "Resident",
     "numberOfDogs": 2
   },
   {
     "id": 11,
     "fullName": "Aaron Goodman",
-    "Title": "Resident",
+    "title": "Resident",
     "numberOfDogs": 0
   },
   {
     "id": 12,
     "fullName": "Michelle Bergquist",
-    "Title": "Resident",
+    "title": "Resident",
     "numberOfDogs": 1
   }
 ]
